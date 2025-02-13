@@ -1,7 +1,8 @@
 # Deep-Learning-Course
 
 Home work1: 
-\n
+\\n
+
 Home work2:
 \n
 Home work3: 
